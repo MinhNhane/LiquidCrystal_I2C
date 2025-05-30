@@ -1,4 +1,7 @@
 //YWROBOT
+#include <SoftWire.h>
+extern SoftWire myWire;
+
 #ifndef LiquidCrystal_I2C_h
 #define LiquidCrystal_I2C_h
 
